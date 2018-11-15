@@ -1,6 +1,6 @@
 body{
 	background-color: white	;
-	text-align: center;
+	
 	color: black;
 	
 	
@@ -10,7 +10,9 @@ h2 {
 	text-align: center;
 	padding-top: 10px;
 	font-size: 30px;
+	padding-left: 150px;
 }
 .info {
 	font-size: 30px;
+	width: 1331;
 }
